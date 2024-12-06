@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3795309700661421145}
   m_Layer: 0
   m_Name: Bullet Prefab
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134,3 +134,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 1
+  ExplosionPrefab: {fileID: 319785704573691869, guid: 5343dd40aacc6364692eccd868e6a98a, type: 3}
